@@ -6,7 +6,7 @@ This is a full stack MERN app that uses the DALL-E 2.0 AI model to generate imag
 
 ## Demo
 
-https://dall-e-2-0-wmw6.onrender.com
+https://harsh-dall-e.netlify.app/
 
 ## Features
 
