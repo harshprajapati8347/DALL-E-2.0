@@ -2,9 +2,11 @@
 
 ## DALL-E 2.0 - AI Image Generation
 
-This is a full stack MERN app that uses the DALL-E 2.0 AI model to generate images from text descriptions. The app is a clone of the original DALL-E app created by Me using OPEN AI API. The original app can be found here: https://labs.openai.com/
+This is a full stack MERN app that uses the DALL-E 2.0 AI model to generate images from text descriptions. The app is a clone of the original DALL-E app created by Me using OPEN AI API. 
 
-## Demo
+I made it using MERN stack, Cloudinary for Image Optimization, Vite (to set React Development Environment), and awesome Tailwind-CSS.
+
+## Live:  DALL-E 2.0 
 
 https://harsh-dall-e.netlify.app/
 
